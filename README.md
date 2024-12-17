@@ -21,4 +21,4 @@ Then, just start MATLAB and run one of the demo scripts (e.g. main_synthetic.m, 
 
 
 ## NOTES:
-1.  Codes for the generalized sylvester equation solver were provided by Alex Townsend, in [this toolbox](https://openremotesensing.net/wp-content/uploads/2017/11/HSMSFusionToolbox.zip](https://github.com/ajt60gaibb/freeLYAP).
+1.  Codes for the generalized sylvester equation solver were provided by Alex Townsend, in [this toolbox](https://github.com/ajt60gaibb/freeLYAP).

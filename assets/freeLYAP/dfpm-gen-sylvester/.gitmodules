@@ -1,0 +1,3 @@
+[submodule "randsvdfast-matlab"]
+	path = matrix_generation/randsvdfast
+	url = https://github.com/mfasi/randsvdfast-matlab.git

@@ -28,10 +28,10 @@ a coordinate-descent optimization method.
 
 
 <img src="fig_tensor_fus1.png" alt="Model for personalized data fusion"
-	title="Model for personalized data fusion"  width="100%" height="100%" />
+	title="Model for personalized data fusion"  width="75%" height="75%" />
 	
 <img src="fig_tensor_fus_deg.png" alt="Model for degradation"
-	title="Model for degradation"  width="100%" height="100%" />
+	title="Model for degradation"  width="75%" height="75%" />
 
 Illustration of the model considered in paper [1]. A latent tensor C is common in all 
 measurements and acquired through an operator Pk while tensors Dk are distinct to each 
